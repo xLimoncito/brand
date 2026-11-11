@@ -1,40 +1,40 @@
-# Limoncito Brand Assets
+# Marca de Limoncito
 
-Official logos and icons for **Limoncito** 🍋
+Logos e iconos oficiales de **Limoncito**.
 
-**Website:** [https://xlimoncito.com](https://xlimoncito.com)
+Sitio: [xlimoncito.com](https://xlimoncito.com)
 
-## Contents
+## Contenido
 
 ```
 assets/
   logo/
-    logo.png          # Primary logo
-    logo-64.png       # Small PNG
-    logo-64.webp      # Small WebP
+    logo.png              # Logo principal
+    logo-64.png           # PNG chico
+    logo-64.webp          # WebP chico
   icons/
-    icon-192.png      # PWA / Android
-    icon-512.png      # PWA large
+    icon-192.png          # PWA / Android
+    icon-512.png          # PWA grande
     apple-touch-icon.png
   social/
-    og-image.png      # Open Graph / social share
+    og-image.png          # Open Graph / redes
 ```
 
-## Usage
+## Uso
 
-You **may**:
+Podés:
 
-- Use these assets to refer to Limoncito (press, tutorials, integrations)
-- Resize for UI or documentation
+- Usar estos archivos para mencionar a Limoncito (prensa, tutoriales, integraciones)
+- Redimensionarlos para una interfaz o una documentación
 
-You **may not**:
+No podés:
 
-- Modify the mark in a way that confuses it with another product
-- Use the logo to imply official partnership without written permission
-- Sell the assets as a standalone product
+- Alterar la marca de una forma que se confunda con otro producto
+- Usar el logo para insinuar una alianza oficial sin permiso por escrito
+- Vender los archivos como un producto aparte
 
-For partnership or co-branding, email **hola@xlimoncito.com**.
+Para una alianza o un cobranding, escribinos a **hola@xlimoncito.com**.
 
-## License
+## Licencia
 
-See [LICENSE](./LICENSE). © Limoncito. All rights reserved; limited display permission above.
+Ver [LICENSE](./LICENSE). © Limoncito. Todos los derechos reservados, con el permiso de exhibición de arriba.
